@@ -1,6 +1,6 @@
 The optimal robots obtained by GA, CPPN, MTMF-ind, MTMF-gen and MTMF in five independent runs.
 
-The numbers of expensive fitness evaluations is set as 300.
+The numbers of expensive fitness evaluations is set as 200.
 
 The page's loading speed is slow, please be patient. Thank you!
 
