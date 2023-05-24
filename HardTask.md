@@ -16,9 +16,9 @@ The page's loading speed is slow, please be patient. Thank you!
 </tr>
 <tr>
 <td><center>Carrier-v1</center></td>
-<td><center>< img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_GA_3.648249.gif" />Reward:3.648249</center></td>
-<td><center>< img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_CPPN_3.634879.gif" />Reward:3.634879</center></td>
-<td><center>< img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_MTMF-ind_3.620962.gif" />Reward:3.620962</center></td>
+<td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_GA_3.648249.gif" />Reward:3.648249</center></td>
+<td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_CPPN_3.634879.gif" />Reward:3.634879</center></td>
+<td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_MTMF-ind_3.620962.gif" />Reward:3.620962</center></td>
 <td><center>< img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_MTMF-gen_3.65176.gif" />Reward:3.65176</center></td>
 <td><center>< img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/Carrier-v1_MTMF_3.667944.gif" />Reward:3.667944</center></td>
 </tr>
