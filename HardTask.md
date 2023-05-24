@@ -34,7 +34,7 @@ The page's loading speed is slow, please be patient. Thank you!
 <td><center>BeamSlider-v0</center></td>
 <td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/BeamSlider-v0_GA_1.983646.gif" />Reward:1.983646</center></td>
 <td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/BeamSlider-v0_CPPN_1.624002.gif" />Reward:1.624002</center></td>
-
+<td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/BeamSlider-v0_MTMF-ind_2.316425.gif" />Reward:2.316425</center></td>
 <td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/BeamSlider-v0_MTMF-gen_2.443192.gif" />Reward:2.443192</center></td>
 <td><center><img src="https://github.com/JiliangZhao/MTMF-GIFs/blob/main/gifs/BeamSlider-v0_MTMF_2.630525.gif" />Reward:2.630525</center></td>
 </tr>
