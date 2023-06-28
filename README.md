@@ -1,5 +1,5 @@
 # MTMF-GIFs
-The optimal robot designs obtained by genetic algorithm(GA), compositional pattern producing network (CPPN-NEAT), individual-based multi-fidelity optimization algorithm (MTMF-OA-ind), generation-based multi-fidelity optimization algorithm (MTMF-OA-gen) and morphological transfer-based multi-fidelity optimization algorithm (MTMF-OA) in five independent runs.
+The optimal robot designs obtained by genetic algorithm(GA), compositional pattern producing network (CPPN-NEAT), individual-based multi-fidelity evolutionary algorithm (MTMFEA-ind), generation-based multi-fidelity evolutionary algorithm (MTMFEA-gen) and morphological transfer-based multi-fidelity evolutionary algorithm (MTMFEA) in five independent runs.
 
 The simulation animation and rewards have been placed in EasyTasks.md, MediumTasks.md, and HardTasks.md.
 
