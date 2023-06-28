@@ -1,4 +1,4 @@
-The optimal robots obtained by GA, CPPN-NEAT, MTMF-OA-ind, MTMF-OA-gen and MTMF in five independent runs.
+The optimal robots obtained by GA, CPPN-NEAT, MTMFEA-ind, MTMFEA-gen and MTMFEA in five independent runs.
 
 The numbers of expensive fitness evaluations is set as 100.
 
