@@ -1,4 +1,4 @@
-The optimal robots obtained by GA, CPPN, MTMF-ind, MTMF-gen and MTMF in five independent runs.
+The optimal robots obtained by GA, CPPN, MTMFEA-ind, MTMFEA-gen and MTMFEA in five independent runs.
 
 The numbers of expensive fitness evaluations is set as 200.
 
@@ -9,9 +9,9 @@ The page's loading speed is slow, please be patient. Thank you!
 <td><center>Task</center></td>
 <td><center>GA</center></td>
 <td><center>CPPN</center></td>
-<td><center>MTMF-ind</center></td>
-<td><center>MTMF-gen</center></td>
-<td><center>MTMF</center></td>
+<td><center>MTMFEA-ind</center></td>
+<td><center>MTMFEA-gen</center></td>
+<td><center>MTMFEA</center></td>
 </tr>
 <tr>
 <td><center>BidirectionalWalker-v0</center></td>
